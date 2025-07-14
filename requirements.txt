@@ -1,0 +1,18 @@
+
+---
+
+## 📦 `requirements.txt`
+
+```txt
+torch>=1.10
+torchvision
+torchaudio
+librosa
+numpy
+matplotlib
+scikit-learn
+pandas
+Pillow
+tqdm
+opencv-python
+soundfile
